@@ -10,5 +10,5 @@ Here I will be sharing .STEP files that I created or found on the internet.  The
 
 [12mm Pusbutton / Blue - Button - DS-227 - Updated v3.step](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/Blue%20-%20Button%20-%20DS-227%20-%20Updated%20v3.step)
 
-[Basic 3D Printable mount with posts / Basic Raspberry Pi Mount v1](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/Basic%20Raspberry%20Pi%20Mount%20v1.step)
+[3D Printable Raspberry Pi mount with posts / Basic Raspberry Pi Mount v1](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/Basic%20Raspberry%20Pi%20Mount%20v1.step)
 
