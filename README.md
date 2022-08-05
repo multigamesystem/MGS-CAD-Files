@@ -15,3 +15,5 @@ Follow my Instagram for more information and updates.  https://www.instagram.com
 
 [**JAMMA Edge Connector (Black with gold) / Black Jamma (Jamma EDGE connector)**](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/Black%20Jamma%20(Jamma%20EDGE%20connector)%20v12.step)
 
+[**JST XH Male thru hole connector / 5 Pin**](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/JST%20-%20XH%20-%20Thru%20(V)%20-%205Pin%20-%202.54mm%20v1.step)
+
