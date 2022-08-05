@@ -6,7 +6,7 @@ Here I will be sharing .STEP files that I created or found on the internet.  The
 
 
 
-[Sanwa JLF-TP-8YT Joystick v55.step](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/Sanwa%20JLF-TP-8YT%20Joystick%20v55.step)
+[Arcade Joystick / Sanwa JLF-TP-8YT Joystick v55.step](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/Sanwa%20JLF-TP-8YT%20Joystick%20v55.step)
 
-
+[12mm Pusbutton / Blue - Button - DS-227 - Updated v3.step](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/Blue%20-%20Button%20-%20DS-227%20-%20Updated%20v3.step)
 
