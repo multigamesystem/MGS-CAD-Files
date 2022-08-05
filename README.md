@@ -20,3 +20,5 @@ Follow my Instagram for more information and updates.  https://www.instagram.com
 [Raspberry Pi Pico](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/Raspberry%20Pi%20Pico-R3%20v2.step)
 
 [Raspberry Pi 3 (model B) with micro SD](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/Raspberry%20Pi%203%20v2.step)
+
+[Raspberry Pi 4 (model B)](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/Raspberry%20Pi%204%20Model%20B%20v4.step)
