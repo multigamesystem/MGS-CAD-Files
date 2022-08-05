@@ -12,3 +12,5 @@ Here I will be sharing .STEP files that I created or found on the internet.  The
 
 [3D Printable Raspberry Pi mount with posts / Basic Raspberry Pi Mount v1](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/Basic%20Raspberry%20Pi%20Mount%20v1.step)
 
+[JAMMA Edge Connector (Black with gold) / Black Jamma (Jamma EDGE connector) v12.step](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/Black%20Jamma%20(Jamma%20EDGE%20connector)%20v12.step)
+
