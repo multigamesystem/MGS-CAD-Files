@@ -4,7 +4,8 @@ Here I will be sharing .STEP files (3D models for CAD software) that I created o
 
 *When saving .step files remember to right click and save as on the links below (downloading .step files).  Normally downloading will turn the .step file into a .txt file.  
 
-**If you want to request something please comment below I might have it or can make it.**
+**If you want to request something** 
+[Start a "New Issue" under Issues](https://github.com/tonberryhunter/MGS-CAD-Files/issues)
 
 Follow my Instagram for more information and updates.  https://www.instagram.com/robertdunnart/
 
