@@ -11,7 +11,9 @@ Follow my Instagram for more information and updates.  https://www.instagram.com
 
 #
 
-[**Pico Fighting Board v1.1a**](https://github.com/multigamesystem/MGS-CAD-Files/blob/7d813c92c15b376e354906a5454581a12d08fb6a/STEP%20files%20with%20images/Pico%20Fighting%20Board%20v1.1a.step)
+[**Pico Fighting Board v1.1a**<br><img src="https://user-images.githubusercontent.com/49738515/233323847-af6b9ce1-1551-4985-a96b-b93ed2a44619.png" width="200">](https://github.com/multigamesystem/MGS-CAD-Files/blob/7d813c92c15b376e354906a5454581a12d08fb6a/STEP%20files%20with%20images/Pico%20Fighting%20Board%20v1.1a.step)
+
+
 
 [**Arcade Joystick / Sanwa JLF-TP-8YT Joystick**](https://github.com/tonberryhunter/MGS-CAD-Files/blob/main/STEP%20files%20with%20images/Sanwa%20JLF-TP-8YT%20Joystick%20v55.step)
 
