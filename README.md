@@ -2,7 +2,7 @@
 
 Here I will be sharing .STEP files (3D models for CAD software) that I created or found on the internet.  These should prove useful for anyone looking to create their own custom arcade or game hardware. 
 
-*When saving .step files remember to right click and "save link as..." on the links below (downloading .step files).  Normally downloading will turn the .step file into a .txt file.  
+*When saving .step files remember to right click and "Save link as..." on the links below (downloading .step files).  Normally downloading will turn the .step file into a .txt file.  
 
 **If you want to request something** 
 [Start a "New Issue" under Issues](https://github.com/tonberryhunter/MGS-CAD-Files/issues)
